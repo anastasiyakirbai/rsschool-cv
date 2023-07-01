@@ -7,3 +7,14 @@ ___
 ## About me:
 I dont not have a specialized education in the field of IT. I really like this trend. I really want to try to be strong and useful in this specialty.
 ___
+## Skills and Proficiency:
++ HTML5
++ CSS3
++ JavaScript 
++ GitHub
++ Figma
+___
+## Language:
+* English A1 progress<br>
+* Russian native<br>
+* Belarusian native
